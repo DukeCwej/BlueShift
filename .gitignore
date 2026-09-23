@@ -1,0 +1,7 @@
+# Raw design source files (PSD, print PDFs, zip) — not part of the deployed site,
+# and "Final Files.zip" / "Dan Payne.psd" exceed GitHub's 100MB file limit anyway.
+v3-with-hc/
+
+node_modules/
+.DS_Store
+Thumbs.db
